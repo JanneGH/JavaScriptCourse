@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jshint": "^2.13.3",
+    "live-server": "^1.1.0"
+  }
+}
